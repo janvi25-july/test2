@@ -8,7 +8,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	 int x=100;
 	 int y=200; 
          float a=10.3f;   
-         double z =10.5;     
+         double z =10.5; 
+          char a ="a";    
 
        public static void main(String[] args) {
 	SpringApplication.run(Test2Application.class, args);
