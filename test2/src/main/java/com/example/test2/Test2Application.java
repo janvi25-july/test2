@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	 int y=200; 
          float a=10.3f;   
          double z =10.5; 
-          double y=55.5;    
+         int a= 500;    
 
        public static void main(String[] args) {
 	SpringApplication.run(Test2Application.class, args);
